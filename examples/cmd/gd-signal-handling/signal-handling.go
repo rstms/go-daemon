@@ -7,7 +7,7 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/sevlyar/go-daemon"
+	"github.com/rstms/go-daemon"
 )
 
 var (

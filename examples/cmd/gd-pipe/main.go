@@ -6,7 +6,7 @@ import (
 	"os/signal"
 	"syscall"
 
-	"github.com/sevlyar/go-daemon"
+	"github.com/rstms/go-daemon"
 )
 
 func main() {
